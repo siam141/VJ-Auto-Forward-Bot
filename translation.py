@@ -1,7 +1,7 @@
 class Translation(object):
 
       # Start text
-      START = "<b>Hi 👋 I Am A Channel Auto Forward Bot of <a href='https://t.me/VJ_Botz'>VJ Botz</a><b>. \n<b>Make your own bot now 👉 <a href='https://youtube.com/@Tech_VJ'>Tutorial Video</a><b> \n\n<b>Support Channel and Groups:</b>\n @VJ_Bots, @VJ_Bot_disscussion \n\n<b>About Bot:</b>\n Give Command /about"             
+      START = "<b>Hi 👋 I Am A Channel Auto Forward Bot of <a href='https://t.me/VJ_Botz'>VJ Botz</a><b>. \n<b>Make your own bot now 👉 <a href='https://youtube.com/@Tech_VJ'>Tutorial Video</a><b> \n\n<b>Supportb Channel and Groups:</b>\n @VJ_Bots, @VJ_Bot_disscussion \n\n<b>About Bot:</b>\n Give Command /about"             
 
       #About text
       ABOUT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
